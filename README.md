@@ -74,6 +74,10 @@ May be we could convert the table in json format and have a CSS stylesheet do th
 
 Should this be moved to a google spread sheet ?
 
+## Why are you contributing this ?
+
+Some colleagues of Guillaume Berche asked for a summary of services states. He started as a private spread sheet and then thought it might be useful to others. Let's see if this is the case. If not, we might delete this repo to avoid polutting the cf-community repo namespace.
+
 ## Contributing and opinions
 
 Some of this content, such as maturity, is subjective and deserves healthy constructive discussions and debates? Let's have them on the [cf-bosh](mailto:cf-bosh@lists.cloudfoundry.org) mailing list of through issues.
