@@ -76,7 +76,7 @@ Should this be moved to a google spread sheet ?
 
 ## Why are you contributing this ?
 
-Some colleagues of Guillaume Berche asked for a summary of services states. He started as a private spread sheet and then thought it might be useful to others. Let's see if this is the case. If not, we might delete this repo to avoid polutting the cf-community repo namespace.
+Some colleagues of Guillaume Berche asked for a summary of services states. He started as a private spread sheet and then thought it might be useful to others. Let's see if this is the case. If not, we might delete this repo to avoid polutting the cf-community github organization repo namespace.
 
 ## Contributing and opinions
 
