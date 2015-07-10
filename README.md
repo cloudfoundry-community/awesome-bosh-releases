@@ -3,7 +3,7 @@ Directory of bosh releases, with meta-data
 
 # intro
 
-In the spirit of https://github.com/stefanbuck/awesome-browser-extensions-for-github this page provides a community list of bosh releases, with additional qualitative meta-data. Hopefuly, this should fade out in favor of [bosh hub](http://bosh.io/releases) when it becomes possible to attach meta-data to bosh releases or to bosh-hub.
+In the spirit of https://github.com/stefanbuck/awesome-browser-extensions-for-github this page provides a community-maintained list of bosh releases, with additional qualitative meta-data. Hopefuly, this should fade out in favor of [bosh hub](http://bosh.io/releases) when it becomes possible to attach meta-data to bosh releases or to bosh-hub.
 
 # releases
 
@@ -61,6 +61,10 @@ On chrome, consider installing https://github.com/stefanbuck/awesome-browser-ext
 Otherwise, scroll right with keyboard or gesture on touch screens
 
 Finally, look at the [raw markdown](https://raw.githubusercontent.com/cloudfoundry-community/awesome-bosh-releases/master/README.md)
+
+## Should this be moved to cf-contrib wiki ?
+
+Was tried, the side bar makes it harder to scroll and eats up some screen space. What about pointing to this repo from cf-contrib instead ? 
 
 ## How can I sort, filter this table ?
 
