@@ -43,7 +43,7 @@ On chrome, consider installing https://github.com/stefanbuck/awesome-browser-ext
 
 Otherwise, scroll right with keyboard or gesture on touch screens
 
-Finally, look at the raw markdown
+Finally, look at the [raw markdown](https://raw.githubusercontent.com/cloudfoundry-community/awesome-bosh-releases/master/README.md)
 
 ## How can I sort, filter this table ?
 
