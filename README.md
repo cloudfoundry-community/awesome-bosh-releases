@@ -35,6 +35,23 @@ In the spirit of https://github.com/stefanbuck/awesome-browser-extensions-for-gi
 | admin-ui                   | running-cf |                         |                 |                                                                          | runs-in-prod                       |                     |              |                                                         |            |            |                     |            |                                                                                      |                  |
 | deployment-vm-boshrelease  | running-cf | cf ops CLIs             |                 | https://github.com/emc-cloudfoundry/deployment-vm-boshrelease            | runs-in-prod                       | Emc-content         |              |                                                         |            |            |                     |            |                                                                                      |                  |
 
+# Classification details
+
+Some details on the semantics of columns in the table above
+
+category:
+  * service: suiteable for appearing in cf market place
+  * infra-frmk: infrastructure to build something else. Unrelated to CF
+  * running-cf: useful when running/operating a CF instance
+
+maturity:
+  * poc: proof of concept
+  * runs-in-prod: runs in production by some folks, ask them for more. Not necessary support production workloads (may be suppporting dev activities, see app use cases)
+  * commercial: commercial product with support provided
+
+app usage: for services, is the service ready for supporting development or production ?
+
+
 # faq
 
 ## I can't see the whole table, its truncated
@@ -57,7 +74,9 @@ Should this be moved to a google spread sheet ?
 
 Some of this content, such as maturity, is subjective and deserves healthy constructive discussions and debates? Let's have them on the [cf-bosh](mailto:cf-bosh@lists.cloudfoundry.org) mailing list of through issues.
 
-Otherwise, as usual, the cf community is invited to improve this repo through PRs or through direct git pushes, which ever fits you best.
+Otherwise, as usual, the cf community is invited to improve this repo through which ever is easier
+*  direct git pushes (e.g. edit github button) if you're member of the community
+*  PRs 
 
 ## How to productively edit this huge table ?
 
