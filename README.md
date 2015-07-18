@@ -51,6 +51,8 @@ maturity:
 
 app usage: for services, is the service ready for supporting development or production ?
 
+CI: url to the ci build associated with the release. Usefull to understand prereqs and dependencies.
+
 
 # faq
 
